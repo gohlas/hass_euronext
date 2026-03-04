@@ -1,1 +1,0 @@
-"""euronext sensor."""
