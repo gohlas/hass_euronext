@@ -1,1 +1,0 @@
-"""lt_morningstar sensor."""
