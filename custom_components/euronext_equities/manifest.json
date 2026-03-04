@@ -8,6 +8,5 @@
   "codeowners": ["@gohlas"],
   "config_flow": true,
   "iot_class": "cloud_polling",
-  "integration_type": "service",
-  "logo": "https://raw.githubusercontent.com/gohlas/hass_euronext/main/custom_components/euronext_equities/icon.png"
+  "integration_type": "service"
 }
