@@ -1,0 +1,13 @@
+{
+  "domain": "euronext_equities",
+  "name": "Euronext Equities",
+  "version": "1.0",
+  "documentation": "https://github.com/gohlas/hass_euronext",
+  "requirements": ["lxml>=4.9.0"],
+  "dependencies": [],
+  "codeowners": ["@gohlas"],
+  "config_flow": true,
+  "iot_class": "cloud_polling",
+  "integration_type": "service",
+  "logo": "https://raw.githubusercontent.com/gohlas/hass_euronext/main/custom_components/euronext_equities/icon.png"
+}
